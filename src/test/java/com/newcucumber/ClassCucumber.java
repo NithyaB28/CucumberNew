@@ -11,5 +11,14 @@ public class ClassCucumber {
 	private void method3() {
 
 	}
+	private void javanew() {
+
+	}
+	private void selenium() {
+
+	}
+	private void js() {
+
+	}
 
 }
